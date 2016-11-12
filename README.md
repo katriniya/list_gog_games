@@ -1,6 +1,8 @@
 # list_gog_games
 Python script to list GOG games sorted by price. 
+
 gog.py - python2.7
+
 gog3.py - python3+
 
 Usage: 
